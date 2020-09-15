@@ -1,4 +1,4 @@
-$exportto = "C:\Temp\Export.csv"
+$exportto = "C:\Export.csv"
 Write-Host " "
 Write-Host "Here are the top 10 CPU consuming processes right now"
 Write-Host " "
