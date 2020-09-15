@@ -1,4 +1,4 @@
-$exportto = "c:\temp\Export.csv"
+$exportto = "C:\Users\gaalon\OneDrive - Microsoft\Microsoft Teams Chat Files\Export.csv"
 Write-Host " "
 Write-Host "Here are the top 10 CPU consuming processes right now"
 Write-Host " "
